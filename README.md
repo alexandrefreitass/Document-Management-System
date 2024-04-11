@@ -1,4 +1,4 @@
-### Sistema de Numerador Documentos
+## Sistema de Numerador Documentos
 
 <div align="center">
     <img src="https://github.com/alexandrefreitass/numerador/assets/109884524/1f1a55be-8c4e-4a76-82ee-71a6f4e6d531"/>
@@ -13,11 +13,11 @@ organizada e acessível.
 
 Os usuários podem consultar o numerador para acessar documentos criados por eles próprios, permitindo uma fácil visualização e recuperação de informações relevantes.
     
-# Supervisão de Documentos:
+### Supervisão de Documentos:
 
 Além disso, o sistema possui diferentes níveis de supervisores, que têm permissão para visualizar o numerador de documentos criados por outros usuários. Isso facilita a supervisão e colaboração entre os membros da equipe.
 
-# Autenticação Segura:
+### Autenticação Segura:
 
 O sistema conta com um sistema de autenticação seguro, onde as senhas dos usuários são criptografadas, garantindo a segurança dos dados e protegendo contra acessos não autorizados.
 
