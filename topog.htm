@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><font color="#000099" size="4"><strong><font color="#FFFFFF" size="1"><script> var repeat=1 // 0 para rolar uma vez, 1 para rolar infinitamente
+var title=document.title
+var leng=title.length
+var start=1
+function titlemove() {
+titl=title.substring(start, leng) + title.substring(0, start)
+document.title=titl
+start++
+if (start==leng+1) {
+start=0
+if (repeat==0)
+return
+}
+setTimeout("titlemove()",300)  // aqui vc pode aumentar ou diminuir a velocidade 
+}
+if (document.title)
+titlemove()
+          </script></font></strong></font>
+<script language=JavaScript>
+<!--
+var mensagem="";
+function clickIE() {if (document.all) {(mensagem);return false;}}
+function clickNS(e) {if 
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(mensagem);return false;}}}
+if (document.layers) 
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+document.oncontextmenu=new Function("return false")
+// --> 
+</script>
+<head>
+<title>WebCpi2</title>
+<link  href="../css/Geral.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+</head>
+
+<body bgcolor="#00CCCC" topmargin="0">
+<font size="1"> 
+</font>
+<p><font size="1"> 
+  <MARQUEE>
+  <STRONG><EM><font color="#000099"><strong>NUMERADOR</strong></font>.</EM></STRONG> 
+  </MARQUEE>
+  </font><font size="1">
+  <MARQUEE>
+  </MARQUEE>
+  </font></p>
+<font size="1">
+</font> 
+</body>
+</html>
