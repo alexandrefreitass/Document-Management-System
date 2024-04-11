@@ -1,7 +1,7 @@
 ### Sistema de Numerador Documentos
 
 <div align="center">
-    <img src="https://github.com/alexandrefreitass/numerador/assets/109884524/617b7155-6a93-490c-a747-509984ca0cdd"/>
+    <img src="https://github.com/alexandrefreitass/numerador/assets/109884524/1f1a55be-8c4e-4a76-82ee-71a6f4e6d531"/>
 </div>
 <br/>
 Desenvolvido em PHP e integrado ao banco de dados MySQL, o projeto é uma aplicação web completa que atua como um sistema de gerenciamento de documentos, 
