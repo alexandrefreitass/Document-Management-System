@@ -50,3 +50,6 @@ Execute o xampp e start no apache e mysql:
 ```bash
   localhost:8080 ou a porta definida por voce
 ```
+
+### Licença
+Este projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/alexandrefreitass/numerador/blob/master/LICENSE">LICENSE</a> para obter mais detalhes.
